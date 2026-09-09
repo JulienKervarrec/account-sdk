@@ -248,3 +248,8 @@ yarn add @base-org/account
   1. Fork this repo and clone it
   1. From the root dir run `yarn install`
   1. From the root dir run `yarn dev`
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot, chapitre par chapitre, est disponible dans [docs/fr/](docs/fr/README.md).
